@@ -1,4 +1,5 @@
 <?php
+
 /*echo "<h3>Dizilerde Sıralama</h3>";
 $iller=array(
     "Ankara"=>6,
